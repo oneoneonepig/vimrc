@@ -1,2 +1,4 @@
 # vimrc
-My vimrc file
+
+For:
+- Kubernetes YAMLs
