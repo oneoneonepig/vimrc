@@ -10,3 +10,6 @@ autocmd FileType yaml setlocal ts=8 sts=2 sw=2 expandtab
 
 " Enable indent
 filetype plugin indent on
+
+" Disable auto-indent when pasting code
+set paste
